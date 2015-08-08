@@ -6,9 +6,7 @@
 ## help site
 <a href="http://mock-api-agilean.github.io/" target="_blank"><pre>mock-api-agilean.github.io</pre></a>
 
-<br/>
 --------------
-
-###### Powered by <a href="http://www.agilean.com" target="_blank">Agilean</a>
+###### Powered by <a href="http://www.agilean.cn" target="_blank">Agilean</a>
 
 
