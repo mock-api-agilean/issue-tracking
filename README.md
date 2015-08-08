@@ -1,10 +1,10 @@
 # issue tracking project for mock-api
 
 ## main site
-<a href="http://mock-api.com/" target="_blank">http://mock-api.com/</a>
+<a href="http://mock-api.com/" target="_blank"><pre>mock-api.com</pre></a>
 
 ## help site
-<a href="http://mock-api-agilean.github.io/" target="_blank">http://mock-api-agilean.github.io/</a>
+<a href="http://mock-api-agilean.github.io/" target="_blank"><pre>mock-api-agilean.github.io</pre></a>
 
 <br/>
 --------------
