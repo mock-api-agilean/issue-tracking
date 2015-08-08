@@ -1,7 +1,14 @@
 # issue tracking project for mock-api
 
 ## main site
-http://mock-api.com/
+<a href="http://mock-api.com/" target="_blank">http://mock-api.com/</a>
 
 ## help site
-http://mock-api-agilean.github.io/
+<a href="http://mock-api-agilean.github.io/" target="_blank">http://mock-api-agilean.github.io/</a>
+
+<br/>
+--------------
+
+###### Powered by <a href="http://www.agilean.com" target="_blank">Agilean</a>
+
+
